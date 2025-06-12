@@ -1,4 +1,4 @@
-# Converted notebook to py script so core code is viewable
+# Condensed version of notebook in py script format
 
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import linear_kernel
